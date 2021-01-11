@@ -5,20 +5,20 @@ Talleres de práctica con sus soluciones del grupo de discord: https://discord.g
 
 Grupo de discord: https://discord.gg/KH3BYGp3Vj
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JavaScript
+- JavaScript
 
--React
+- React
 
--Bootstrap
+- Bootstrap
 
--PHP
+- PHP
 
--Angular
+- Angular
 
--Node.js
+- Node.js
 
 - Y más...
